@@ -1,0 +1,14 @@
+C:\Users\gustavo.opereira4\source\repos\Passa_Tempo\bin\Debug\net9.0\Passa_Tempo.exe
+C:\Users\gustavo.opereira4\source\repos\Passa_Tempo\bin\Debug\net9.0\Passa_Tempo.deps.json
+C:\Users\gustavo.opereira4\source\repos\Passa_Tempo\bin\Debug\net9.0\Passa_Tempo.runtimeconfig.json
+C:\Users\gustavo.opereira4\source\repos\Passa_Tempo\bin\Debug\net9.0\Passa_Tempo.dll
+C:\Users\gustavo.opereira4\source\repos\Passa_Tempo\bin\Debug\net9.0\Passa_Tempo.pdb
+C:\Users\gustavo.opereira4\source\repos\Passa_Tempo\obj\Debug\net9.0\Passa_Tempo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gustavo.opereira4\source\repos\Passa_Tempo\obj\Debug\net9.0\Passa_Tempo.AssemblyInfoInputs.cache
+C:\Users\gustavo.opereira4\source\repos\Passa_Tempo\obj\Debug\net9.0\Passa_Tempo.AssemblyInfo.cs
+C:\Users\gustavo.opereira4\source\repos\Passa_Tempo\obj\Debug\net9.0\Passa_Tempo.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.opereira4\source\repos\Passa_Tempo\obj\Debug\net9.0\Passa_Tempo.dll
+C:\Users\gustavo.opereira4\source\repos\Passa_Tempo\obj\Debug\net9.0\refint\Passa_Tempo.dll
+C:\Users\gustavo.opereira4\source\repos\Passa_Tempo\obj\Debug\net9.0\Passa_Tempo.pdb
+C:\Users\gustavo.opereira4\source\repos\Passa_Tempo\obj\Debug\net9.0\Passa_Tempo.genruntimeconfig.cache
+C:\Users\gustavo.opereira4\source\repos\Passa_Tempo\obj\Debug\net9.0\ref\Passa_Tempo.dll
